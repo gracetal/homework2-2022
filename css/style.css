@@ -104,7 +104,7 @@ div{
 span{
 	text-decoration: underline;
 	text-transform: uppercase;
-	text-shadow: 0px 0px;
+	text-shadow: none;
 }
 
 footer{
